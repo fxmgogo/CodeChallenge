@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "wVhfyoZ5ge7PuepM5rYwM2LVpsim5U7qxtevmnXFOQRTXBwdYN7xZ+S26rr9lVmMDCU8KnRpP6RdOtnIER2eLQ==",
+  "success": true,
+  "projectFilePath": "E:\\CodeChallenge\\ToyRobot\\ToyRobot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\CnSam\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
+    "C:\\Users\\CnSam\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\CnSam\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
