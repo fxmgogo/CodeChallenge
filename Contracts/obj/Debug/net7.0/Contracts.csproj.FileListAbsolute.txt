@@ -1,0 +1,15 @@
+E:\CodeChallenge\Contracts\bin\Debug\net7.0\Contracts.deps.json
+E:\CodeChallenge\Contracts\bin\Debug\net7.0\Contracts.dll
+E:\CodeChallenge\Contracts\bin\Debug\net7.0\Contracts.pdb
+E:\CodeChallenge\Contracts\bin\Debug\net7.0\Entities.dll
+E:\CodeChallenge\Contracts\bin\Debug\net7.0\Entities.pdb
+E:\CodeChallenge\Contracts\obj\Debug\net7.0\Contracts.csproj.AssemblyReference.cache
+E:\CodeChallenge\Contracts\obj\Debug\net7.0\Contracts.GeneratedMSBuildEditorConfig.editorconfig
+E:\CodeChallenge\Contracts\obj\Debug\net7.0\Contracts.AssemblyInfoInputs.cache
+E:\CodeChallenge\Contracts\obj\Debug\net7.0\Contracts.AssemblyInfo.cs
+E:\CodeChallenge\Contracts\obj\Debug\net7.0\Contracts.csproj.CoreCompileInputs.cache
+E:\CodeChallenge\Contracts\obj\Debug\net7.0\Contracts.csproj.CopyComplete
+E:\CodeChallenge\Contracts\obj\Debug\net7.0\Contracts.dll
+E:\CodeChallenge\Contracts\obj\Debug\net7.0\refint\Contracts.dll
+E:\CodeChallenge\Contracts\obj\Debug\net7.0\Contracts.pdb
+E:\CodeChallenge\Contracts\obj\Debug\net7.0\ref\Contracts.dll

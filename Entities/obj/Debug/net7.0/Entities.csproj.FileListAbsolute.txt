@@ -1,0 +1,12 @@
+E:\CodeChallenge\Entities\bin\Debug\net7.0\Entities.deps.json
+E:\CodeChallenge\Entities\bin\Debug\net7.0\Entities.dll
+E:\CodeChallenge\Entities\bin\Debug\net7.0\Entities.pdb
+E:\CodeChallenge\Entities\obj\Debug\net7.0\Entities.csproj.AssemblyReference.cache
+E:\CodeChallenge\Entities\obj\Debug\net7.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+E:\CodeChallenge\Entities\obj\Debug\net7.0\Entities.AssemblyInfoInputs.cache
+E:\CodeChallenge\Entities\obj\Debug\net7.0\Entities.AssemblyInfo.cs
+E:\CodeChallenge\Entities\obj\Debug\net7.0\Entities.csproj.CoreCompileInputs.cache
+E:\CodeChallenge\Entities\obj\Debug\net7.0\Entities.dll
+E:\CodeChallenge\Entities\obj\Debug\net7.0\refint\Entities.dll
+E:\CodeChallenge\Entities\obj\Debug\net7.0\Entities.pdb
+E:\CodeChallenge\Entities\obj\Debug\net7.0\ref\Entities.dll

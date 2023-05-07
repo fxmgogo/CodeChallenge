@@ -1,0 +1,17 @@
+E:\CodeChallenge\GitHubUserService\bin\Debug\net7.0\GitHubUserService.deps.json
+E:\CodeChallenge\GitHubUserService\bin\Debug\net7.0\GitHubUserService.dll
+E:\CodeChallenge\GitHubUserService\bin\Debug\net7.0\GitHubUserService.pdb
+E:\CodeChallenge\GitHubUserService\bin\Debug\net7.0\Contracts.dll
+E:\CodeChallenge\GitHubUserService\bin\Debug\net7.0\Entities.dll
+E:\CodeChallenge\GitHubUserService\bin\Debug\net7.0\Contracts.pdb
+E:\CodeChallenge\GitHubUserService\bin\Debug\net7.0\Entities.pdb
+E:\CodeChallenge\GitHubUserService\obj\Debug\net7.0\GitHubUserService.csproj.AssemblyReference.cache
+E:\CodeChallenge\GitHubUserService\obj\Debug\net7.0\GitHubUserService.GeneratedMSBuildEditorConfig.editorconfig
+E:\CodeChallenge\GitHubUserService\obj\Debug\net7.0\GitHubUserService.AssemblyInfoInputs.cache
+E:\CodeChallenge\GitHubUserService\obj\Debug\net7.0\GitHubUserService.AssemblyInfo.cs
+E:\CodeChallenge\GitHubUserService\obj\Debug\net7.0\GitHubUserService.csproj.CoreCompileInputs.cache
+E:\CodeChallenge\GitHubUserService\obj\Debug\net7.0\GitHubUserService.csproj.CopyComplete
+E:\CodeChallenge\GitHubUserService\obj\Debug\net7.0\GitHubUserService.dll
+E:\CodeChallenge\GitHubUserService\obj\Debug\net7.0\refint\GitHubUserService.dll
+E:\CodeChallenge\GitHubUserService\obj\Debug\net7.0\GitHubUserService.pdb
+E:\CodeChallenge\GitHubUserService\obj\Debug\net7.0\ref\GitHubUserService.dll
